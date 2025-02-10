@@ -15,17 +15,19 @@ Hoisting: var is hoisted and initialized to undefined, meaning its declaration i
 
 Reference:
 MDN Web Docs (Mozilla Developer Network)
-•  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
-•  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
-•  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
 These are official documentation pages that provide detailed explanations, syntax, and best practices.
+
 W3Schools JavaScript Guide
-•  https://www.w3schools.com/js/js_let.asp
-•  https://www.w3schools.com/js/js_const.as
-•  https://www.w3schools.com/js/js_var.asp
+• https://www.w3schools.com/js/js_let.asp
+• https://www.w3schools.com/js/js_const.as
+• https://www.w3schools.com/js/js_var.asp
 W3Schools provides beginner-friendly content with interactive examples.
+
 GeeksforGeeks
-•	https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
+• https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
 This source breaks down the differences in a concise and easy-to-understand manner.
 
 
