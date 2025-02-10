@@ -14,6 +14,7 @@ Key Concept: Both console.log() statements output the same value because var doe
 Hoisting: var is hoisted and initialized to undefined, meaning its declaration is lifted to the top of the function during execution.
 
 Reference:
+
 MDN Web Docs (Mozilla Developer Network)
 • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
